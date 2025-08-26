@@ -5,7 +5,9 @@ Dashboard ini dibuat untuk menganalisis data penjualan transaksi dari sebuah cof
 
 * [ Coffee Shop Sales Transactions Dashboard – Maven Analytics]( https://app.mavenanalytics.io/guided-projects/72ec0a0d-bc7d-4ac4-a8da-da811f9061d6)
 
-📂 Download file dashboard: [Coffe Shop Sales.xlsx](https://drive.google.com/drive/folders/1LMCL1VGMM7uuoPbjp1MFFHZqQwsEeUCJ?usp=drive_link)
+📂 Download file dashboard: 
+
+* [Coffe Shop Sales.xlsx](https://drive.google.com/drive/folders/1LMCL1VGMM7uuoPbjp1MFFHZqQwsEeUCJ?usp=drive_link)
 
 🔎 Fitur Utama
 
