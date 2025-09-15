@@ -47,7 +47,7 @@ Interaktivitas
 
 🎯 Insight Potensial
 
-1. Pola pembelian tertinggi terjadi pada jam sibuk yang dimana pembelian tertinggi pada jam 10 pagi.
+1. Pola pembelian tertinggi terjadi pada jam 10 pagi.
 
 2. Beberapa kategori produk mendominasi penjualan terutama pada kategori coffe, menunjukkan fokus produk yang diminati konsumen.
 
