@@ -90,6 +90,3 @@ Beberapa pola menarik yang ditemukan dari dashboard:
 > *Kode proyek bersifat privat. Repository ini hanya berisi dokumentasi dan deskripsi proyek untuk portofolio.*
 
 
-
-3. Tren bulanan menunjukkan adanya pertumbuhan stabil pada periode tertentu.
-
