@@ -55,12 +55,20 @@ Mendesain **dashboard interaktif** dengan kombinasi PivotCharts dan Slicer untuk
 - Menyembunyikan tabel mentah dan gridlines untuk tampilan yang bersih.  
 - Menata tata letak dan format visual agar mudah dibaca.  
 
+
 ---
 
-## 📸 Tampilan Dashboard
+## 📸 Preview Visualisasi
 
-<img width="277" height="288" alt="image" src="https://github.com/user-attachments/assets/4f937042-692d-4fdc-bf9d-2bb8d9343447" />
+<p align="center">
+  <img src="visuals/visual_dashboard.png" alt="Average Price by Neighbourhood" width="48%">
+  <img src="visuals/transactiont_by_hour_per_day.png" alt="Average Price by Accommodates" width="48%">
+</p>
 
+<p align="center">
+  <img src="visuals/transaction_by_product_category.png" alt="New Hosts Over Time" width="48%">
+  <img src="visuals/revenue_by_month.png" alt="Hosts vs Price Over Time" width="48%">
+</p>
 ---
 
 ## 💡 Insights & Recommendations
