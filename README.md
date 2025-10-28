@@ -61,7 +61,7 @@ Mendesain **dashboard interaktif** dengan kombinasi PivotCharts dan Slicer untuk
 ## 📸 Preview Visualisasi
 
 <p align="center">
-  <img src="visuals/visual_dashboard_coffeshop.png" alt="Average Price by Neighbourhood" width="48%">
+  <img src="visuals/visual_dashboard_coffeshop.PNG" alt="Average Price by Neighbourhood" width="48%">
   <img src="visuals/transactiont_by_hour_per_day.png" alt="Average Price by Accommodates" width="48%">
 </p>
 
